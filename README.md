@@ -68,6 +68,7 @@ project/
 Клон проекта:
 
 git clone https://github.com/khalimovv/excuse-generator.git
+
 cd project
 
 Запуск:
