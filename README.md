@@ -28,26 +28,22 @@
 
 Структура проекта
 
+```text
 project/
-│
 ├── core/
-│   ├── menu.py                # Меню выбора
-│   ├── generator.py           # Генерация оправданий
-│   ├── favorites.py           # Логика избранных
-│   ├── excuses.py             # База всех оправданий
-│   ├── constants.py           # Текстовые константы
-│
+│   ├── menu.py            # Меню выбора
+│   ├── generator.py       # Генерация оправданий
+│   ├── favorites.py       # Логика избранных
+│   ├── excuses.py         # База всех оправданий
+│   └── constants.py       # Текстовые константы
 ├── storage/
-│   └── excuses_favorites.json # Сюда сохраняются избранные
-│
+│   └── excuses_favorites.json  # Сюда сохраняются избранные
 ├── tests/
 │   ├── test_menu.py
 │   ├── test_generator.py
 │   ├── test_favorites.py
 │   └── test_excuses.py
-│
-└── main.py                    # Точка входа
-
+└── main.py                # Точка входа
 
 ⸻
 
