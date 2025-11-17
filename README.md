@@ -43,7 +43,7 @@ project/
 │   ├── test_generator.py
 │   ├── test_favorites.py
 │   └── test_excuses.py
-└── main.py                # Точка входа
+└── main.py                
 
 ```
 
